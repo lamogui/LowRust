@@ -1,1 +1,1 @@
-# LowRust
+Low-Tech Rust
